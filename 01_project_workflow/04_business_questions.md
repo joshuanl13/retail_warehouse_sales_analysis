@@ -4,7 +4,7 @@
 ## Product Analysis
 
 - Which products generate the highest total sales?
-- Which products generate the highest warhouse sales?
+- Which products generate the highest warehouse sales?
 - Which products generate the highest retail sales?
 - How concentrated are sales among the top-selling products?
 - How concentrated are sales among the top-selling products in retail space?
