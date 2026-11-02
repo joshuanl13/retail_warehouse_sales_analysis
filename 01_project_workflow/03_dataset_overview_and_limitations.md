@@ -3,13 +3,13 @@
 
 ## Dataset Description
 
-This dataset contains monthly sales and movement data for various type of products heavily concentrated in alcoholic beverage products. The data includes product information, product category, suppliers of those products, retail sales activity, retail transfers, and warehouse sales activity. 
+This dataset contains monthly sales volume and movement data for various type of products heavily concentrated in alcoholic beverage products. The data includes product information, product category, suppliers of those products, retail sales activity, retail transfers, and warehouse sales activity. 
 
 Each record corresponds to specific product which is reported within a specific year between 2017-2020 and month. Products are identified by an item code number along with it's item description and are connected to a certain supplier and product category.
 
 The dataset contains information related to beer, wine, liquor, non-alcoholic beverages, kegs, and store supplies.The primary sales measures available for analysis come from retail and warehouse sales. There is also retail transfer data, but there is not enough information or context regarding its calculations and business meaning.
 
-This dataset was analyzed to examine difference in sales performance through its sales channels, product performance, supplier performance, and product category performance. 
+This dataset was analyzed to examine difference in sales volume through its sales channels, product performance, supplier performance, and product category performance. 
 
 ## Column Definitions
 
@@ -17,11 +17,11 @@ This dataset was analyzed to examine difference in sales performance through its
 - **month** - reporting month
 - **supplier** - product supplier
 - **item_code** - product identifier
-- **item_description** - product Description
+- **item_description** - product description
 - **item_type** - product category
-- **retail_sales** - retail sales amount
-- **retail transfers** - transfer activity between locations
-- **warehouse_sales** - warehouse sales amount
+- **retail_sales** - cases of product sold from DLC dispensaries; represents sales volume rather than revenue
+- **retail transfers** - cases of product transferred to DLC dispensaries; represents sales volume rather than revenue
+- **warehouse_sales** - cases of product sold to MC lcensees; represents sales volume rather than revenue
 
 ## Dataset Limitations
 
