@@ -21,7 +21,7 @@
 - The top warehouse suppliers consist of the same suppliers as the company's top suppliers in similar ranking order.
 
 **Insight 1**
-- With the heavy concentration of sales among top company and warehouse suppliers, results further support that the warehouse channel is an important source of sales for the company. Additionally, this small group of top suppliers is critical to the company's sales.
+- With the heavy concentration of sales among top company and warehouse suppliers, results further support that the warehouse channel is an important source of sales for the company. Additionally, this small group of top suppliers is highly critical to the company's sales.
 
 **Finding 2**
 - Top 10 retail suppliers contain four new suppliers that do not appear within the top warehouse and top company suppliers. 
@@ -39,7 +39,7 @@
 - For the warehouse channel, beer sales contribute to 82.38% of total warehouse sales, while wine contributes 14.60% and kegs contribute 1.49%.
 
 **Insight 1**
-- The similarity of heavy concentration of sales in beer and wine for the company and warehouse further supports the importance of warehouse sales to the company. Additionally, the heavy concentration in beer and wine suggests that these two item types are critical to the company.
+- Beer dominates sales for the company and even more in the warehouse channel. While wine contributes a significantly lower number of sales, it is still important as it is the second highest contributor to company and warehouse sales.
 
 ### Sales Are Distributed More Evenly Amongst the Top Retail Item Types
 
@@ -60,7 +60,7 @@
 - The top warehouse products and top company products are the same products in a similar ranking order.
 
 **Insight 1**
-- Despite the strong performance of several leading products, sales were not heavily concentrated among that small group of top products for the company and warehouse. The same top products further support that the warehouse makes up most of the company.
+- Despite the strong performance of several leading products, sales were not heavily concentrated among that small group of top products for the company and warehouse.
 
 **Finding 2**
 - Top 10 retail products account for only 6.87% of total retail sales. 
