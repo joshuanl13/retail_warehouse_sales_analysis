@@ -8,7 +8,7 @@ The structured workflow of this analysis consists of database and table creation
 
 ## Data Source
 The dataset used in this project was obtained from Kaggle. 
-Dataset: https://www.kaggle.com/datasets/sahirmaharajj/retail-sales-analysis
+- Dataset: https://www.kaggle.com/datasets/sahirmaharajj/retail-sales-analysis
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ Dataset: https://www.kaggle.com/datasets/sahirmaharajj/retail-sales-analysis
 ## Dashboard Preview
 The interactive dashboard allows users to compare retail and warehouse sales volume, supplier concentration, product concentration, item type distribution, and monthly reported sales volume through filtering.
 
-![Retail & Warehouse Sales Dashboard](04_dashboard_images/01_dashboard_company.png)
+![Retail & Warehouse Sales Dashboard](04_dashboard_images/company_dashboard.png)
 
 
 ## Tools & Skills
@@ -73,5 +73,3 @@ Summarized key findings and insights. Created datasets for export used to develo
 
 ### Dashboard Development
 Built an interactive Power BI dashboard to visualize sales volume and compare retail and warehouse sales channels. Occasionally used Power Query to clean the data in preparation for visualizations.
-
-
