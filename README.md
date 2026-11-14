@@ -73,3 +73,41 @@ Summarized key findings and insights. Created datasets for export used to develo
 
 ### Dashboard Development
 Built an interactive Power BI dashboard to visualize sales volume and compare retail and warehouse sales channels. Occasionally used Power Query to clean the data in preparation for visualizations.
+
+## Repository Structure
+
+``` text
+retail_warehouse_sales_analysis/
+│
+├── 01_sql_project_workflow/
+│   ├── 00_database_table_setup.sql
+│   ├── 01_data_validation.sql
+│   ├── 02_data_profiling.sql
+│   ├── 03_dataset_overview_and_limitations.md
+│   ├── 04_business_questions.md
+│   ├── 05_sales_channel_analysis.sql
+│   ├── 06_supplier_analysis.sql
+│   ├── 07_item_type_analysis.sql
+│   ├── 08_product_analysis.sql
+│   ├── 09_insights.md
+│   └── 10_dashboard_data_exports.sql
+│
+├── 02_data_for_powerbi/
+│   ├── 1_sales_channels.csv
+│   ├── 2_item_types.csv
+│   ├── 3_suppliers.csv
+│   ├── 4_top_suppliers.csv
+│   ├── 5_products.csv
+│   ├── 6_top_products.csv
+│   └── 7_monthly_sales.csv
+│
+├── 03_powerbi_dashboard/
+│   └── retail_warehouse_sales_dashboard_fin.pbix
+│
+├── 04_dashboard_images/
+│   ├── company_dashboard.png
+│   ├── retail_dashboard.png
+│   └── warehouse_dashboard.png
+│
+└── README.md
+```
